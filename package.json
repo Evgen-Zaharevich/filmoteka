@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DeadlyPants11.github.io/project",
+  "homepage": "https://Evgen-Zaharevich.github.io/filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Evgen-Zaharevich/filmoteka.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Evgen Zaharevich",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Evgen-Zaharevich/filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.2.4",
