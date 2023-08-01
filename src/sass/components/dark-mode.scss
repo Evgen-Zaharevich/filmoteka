@@ -45,7 +45,7 @@ input:checked[type='checkbox'] ~ .check:before {
 .check:after {
   content: '🌑';
   position: absolute;
-  top: 4.9px;
+  top: 5px;
   right: 9px;
   background-color: #092c3e;
   width: 15px;
