@@ -65,7 +65,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 32px;
-    justify-content: center;
+    justify-content: left;
     padding-top: 60px;
   }
   .film-list__item {
@@ -87,7 +87,7 @@
   .film-list__item {
     width: 395px;
     height: 634px;
-    margin-bottom: 16px;
+    margin-bottom: 15px;
   }
   .film-list__img {
     width: 100%;
